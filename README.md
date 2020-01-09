@@ -1,3 +1,7 @@
+Heroku link here - https://belly-button-divis.herokuapp.com/
+
+
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
